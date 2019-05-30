@@ -1,6 +1,6 @@
 # Awesome Fish
 
-A curation of the greatest packages, prompts, and resources for the <a href="https://fishshell.com" title="friendly interactive shell">fish shell</a>. Built something awesome and want to contribute? Fork this repository, add your project and send us a PR. If you see a project here that is not maintained or is not a good fit, [help us improve this file](https://github.com/jorgebucaran/awesome-fish/fork). 
+A curation of the greatest packages, prompts, and resources for the <a href="https://fishshell.com" title="friendly interactive shell">fish shell</a>. Built something awesome and want to contribute? Fork this repository, add your project and send us a PR. If you see a project here that is not maintained or is not a good fit, [help us improve this file](https://github.com/jorgebucaran/awesome-fish/fork).
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -35,6 +35,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [matchai/**spacefish**](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts
 - [oh-my-fish/**theme-bobthefish**](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt
 - [rafaelrinaldi/**pure**](https://github.com/rafaelrinaldi/pure) - Pure-fish port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt
+- [znculee/**fish-theme-xtli**](https://github.com/znculee/fish-theme-xtli) - Autosizing, solarized, git-aware, conda-aware, simple prompt
 
 ## Utilities
 
@@ -72,7 +73,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Testing
 
-- [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP-based test runner 
+- [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - TAP-based test runner
 - [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - Quick and powerful mocks
 
 ## Resources
