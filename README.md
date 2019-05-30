@@ -35,7 +35,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [matchai/**spacefish**](https://github.com/matchai/spacefish) - Space-themed prompt for astronauts
 - [oh-my-fish/**theme-bobthefish**](https://github.com/oh-my-fish/theme-bobthefish) - Robust, git-aware, powerline prompt
 - [rafaelrinaldi/**pure**](https://github.com/rafaelrinaldi/pure) - Pure-fish port of [sindresorhus/pure](https://github.com/sindresorhus/pure) prompt
-- [znculee/**fish-theme-xtli**](https://github.com/znculee/fish-theme-xtli) - Autosizing, solarized, git-aware, conda-aware, simple prompt
+- [znculee/**fish-theme-xtli**](https://github.com/znculee/fish-theme-xtli) - Autosizing, vi mode indicator, solarized, git-aware, conda-aware, simple prompt
 
 ## Utilities
 
